@@ -1,0 +1,7 @@
+site_name: My Docs
+
+nav:
+  - home: index.md
+  - example: newpage.md
+  - stuff: evennewerpage.md
+  
