@@ -1,4 +1,4 @@
-# Welcome to MkDocs whoop
+# Welcome to McDocs bah bah bah bah bah, im enjoying it
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

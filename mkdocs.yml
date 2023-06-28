@@ -5,3 +5,5 @@ nav:
   - example: newpage.md
   - stuff: evennewerpage.md
   
+theme:
+  name: material
